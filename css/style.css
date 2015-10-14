@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Trebuchet MS';
+}
+body{
+	font-size: 12px;
+}
+table{
+  	border-collapse: collapse;
+}
+td{
+	padding: 3px;
+	border: 1px solid;
+}
+.tabEnca{
+	color: #FFF;
+	border: 1px solid #000;
+	font-style: italic;
+	font-weight: bold;
+	background-color: grey;
+}
